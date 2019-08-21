@@ -2,19 +2,19 @@ package entities;
 
 import java.util.Date;
 
-import entities.enums.OrderStatus;
+import entities.enums.OrderStatus2;
 
 public class Order {
 	
 	private Integer id;
 	private Date moment;
-	private OrderStatus status;
+	private OrderStatus2 status;
 	
 	public Order() {
 		
 	}
 
-	public Order(Integer id, Date moment, OrderStatus status) {
+	public Order(Integer id, Date moment, OrderStatus2 status) {
 		this.id = id;
 		this.moment = moment;
 		this.status = status;
@@ -36,11 +36,11 @@ public class Order {
 		this.moment = moment;
 	}
 
-	public OrderStatus getStatus() {
+	public OrderStatus2 getStatus() {
 		return status;
 	}
 
-	public void setStatus(OrderStatus status) {
+	public void setStatus(OrderStatus2 status) {
 		this.status = status;
 	}
 
