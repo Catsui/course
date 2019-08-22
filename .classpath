@@ -7,6 +7,9 @@
 	<classpathentry kind="src" path="Aula108"/>
 	<classpathentry kind="src" path="Aula109Exerc"/>
 	<classpathentry kind="src" path="Aula111abstract"/>
+	<classpathentry kind="src" path="Aula116trycatch"/>
+	<classpathentry kind="src" path="Aula118finally"/>
+	<classpathentry kind="src" path="Aula119Exceptions"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
 		<attributes>
 			<attribute name="module" value="true"/>
