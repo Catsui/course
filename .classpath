@@ -11,10 +11,13 @@
 	<classpathentry kind="src" path="Aula118finally"/>
 	<classpathentry kind="src" path="Aula123"/>
 	<classpathentry kind="src" path="Aula157File"/>
+	<classpathentry kind="src" path="Aula158"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="Aula159"/>
+	<classpathentry kind="src" path="Aula160"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
