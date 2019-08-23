@@ -42,12 +42,6 @@ public class Program171 {
 			System.out.println(x);
 		}
 		
-		
-		for (int i = 1; i <= install; i++) {
-			
-		}
-		
-		
 		sc.close();
 	}
 
