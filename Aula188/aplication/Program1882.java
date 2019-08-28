@@ -24,8 +24,4 @@ public class Program1882 {
 		
 	}
 	
-	
-
-	
-
 }
