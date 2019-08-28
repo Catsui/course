@@ -10,7 +10,7 @@ public interface InterestService {
 		if (months < 1) {
 			throw new InvalidParameterException("Months must be greater than zero");
 		}
-		return Math.pow(amount*(1+getInterestRate()/100),months);
+		return Math.pow((1+getInterestRate()/100),months)*amount;
 	}	
 
 }
