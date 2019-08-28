@@ -11,9 +11,9 @@ public class Program2181 {
 		intList.add(10);
 		intList.add(5);
 		
-		List<? extends Number> list = intList;
+		//List<? extends Number> list = intList;
 		
-		Number x = list.get(0);
+		//Number x = list.get(0);
 		
 		//list.add(20); Erro: compilador não tem informação de compatibilidade para o curinga
 		
@@ -27,6 +27,7 @@ public class Program2181 {
 		
 		myNums.add(10);
 		myNums.add(3.15);
+	
 		
 		//Number y = myNums.get(0); Erro: não posso acessar elementos da lista e guardar em um Number, pois o tipo pode ser um supertipo.		
 		
