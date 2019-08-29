@@ -11,7 +11,7 @@ public class Program197 {
 
 	public static void main(String[] args) {
 		
-Locale.setDefault(Locale.US);
+		Locale.setDefault(Locale.US);
 		
 		List<Product195> list = new ArrayList<>();
 		
