@@ -3,3 +3,4 @@ Objetos imutáveis: aumenta a simplicidade do programa. São threadsafe, mais fáce
 Funções são objetos de primeira ordem (classe): pode ser passado como argumento para outras funções, e ser retornado por outras funções.
 Expressividade e código conciso: em programação funcional, a característica do código é de ser conciso.
 Tipagem dinâmica e inferência de tipos em programação funcional são comuns.
+Expressão lambda: função anônima de primeira classe.
