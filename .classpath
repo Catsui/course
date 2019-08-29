@@ -27,6 +27,8 @@
 	<classpathentry kind="src" path="Aula187"/>
 	<classpathentry kind="src" path="Aula188"/>
 	<classpathentry kind="src" path="Aula189"/>
+	<classpathentry kind="src" path="Aula192"/>
+	<classpathentry kind="src" path="Aula193"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
 		<attributes>
 			<attribute name="module" value="true"/>
